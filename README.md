@@ -1,7 +1,7 @@
 # SPIT_hackathon
 
-TEAM NAME: 
+# TEAM NAME: 
 Buffer
-TEAM MEMBERS: 
-Sankalp Jain
-Dipali Singh
+# TEAM MEMBERS: 
+1) Sankalp Jain
+2) Dipali Singh
